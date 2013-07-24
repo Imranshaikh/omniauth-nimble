@@ -1,3 +1,7 @@
+# Warning!
+
+This version of strategy doesn't tested with recent getting token changes!
+
 # Omniauth::Nimble
 
 TODO: Write a gem description
